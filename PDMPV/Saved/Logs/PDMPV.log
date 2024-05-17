@@ -2437,3 +2437,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.17-16.43.26:703][979]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2024.05.17-16.43.26:703][979]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49B57C74-48EE-57C4-E858-1CB0BB54D46D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=1652fb09468de3f3a1bcc9b06b5c1a05%7Ce462739c23f44a409043a0ad20c444b9%7Cf7688abd-8066-4984-b19c-dfe46b808fb4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2024.05.17-16.43.26:733][979]LogPakFile: Destroying PakPlatformFile
+[2024.05.17-16.43.27:047][979]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.17-16.43.27:083][979]LogExit: Exiting.
+[2024.05.17-16.43.27:105][979]Log file closed, 05/17/24 10:43:27
