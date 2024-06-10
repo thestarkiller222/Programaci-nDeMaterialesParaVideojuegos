@@ -1,3 +1,6 @@
-2024/05/27-16:00:03.413 bf0 Reusing MANIFEST C:/Users/flore/OneDrive/Documentos/GitHub/Programaci-nDeMaterialesParaVideojuegos/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/05/27-16:00:03.424 bf0 Recovering log #3
-2024/05/27-16:00:03.425 bf0 Reusing old log C:/Users/flore/OneDrive/Documentos/GitHub/Programaci-nDeMaterialesParaVideojuegos/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/10-08:45:17.349 3404 Reusing MANIFEST C:/Users/flore/OneDrive/Documentos/GitHub/Programaci-nDeMaterialesParaVideojuegos/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/10-08:45:17.350 3404 Recovering log #3
+2024/06/10-08:45:17.351 3404 Reusing old log C:/Users/flore/OneDrive/Documentos/GitHub/Programaci-nDeMaterialesParaVideojuegos/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/10-08:52:28.216 35f4 Level-0 table #5: started
+2024/06/10-08:52:28.226 35f4 Level-0 table #5: 19896 bytes OK
+2024/06/10-08:52:28.229 35f4 Delete type=0 #3
